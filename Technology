@@ -1,1 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Search jobs</title>
+</head>
+<body style="background-color:pink">
+</body>
+ <header>
+  <nav>
+    <h1>Search Job</h1>
+    <p style="float:right">
+    <a href="#">Log In</a>|
+    <a href="#">Search jobs</a>|
+    <a href="#">Companies Hiring</a>|
+    <a href="#">Info Hub</a>|
+    </p>
+  </nav>
+ </header>
+ <br/>
+ <hr/>
+<main
+<h1<b style="font-size:40px;color:navy" align="center">Search Jobs</b></h1>
+<img src="images/example.jpg" style=float:left width="3400px" height="300px" />
+<p style="Font-size:30px;color:green">We search various types of jobs here in various feilds.All types of jobs is present on this site.People choose according to his interest and needs.</p>
+</main>
+<footer>
+<h2>© Copyright search jobs 2020| All rights reserved</h1>
+</footer>
+</body>
+</html>
 
